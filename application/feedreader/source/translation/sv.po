@@ -1,0 +1,98 @@
+# Swedish
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: qooxdoo feedreader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-11-09 22:22+0100\n"
+"PO-Revision-Date: 2008-08-27 11:10+0100\n"
+"Last-Translator: Henric Johansson <henric.johansson@mindset.se>\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: feedreader/Application.js:350
+msgid "FeedReader (qooxdoo powered)"
+msgstr "FeedReader (qooxdoo driven)"
+
+#: feedreader/view/AddFeedWindow.js:49
+msgid "Add a feed"
+msgstr "Lägg till ett flöde"
+
+#: feedreader/view/AddFeedWindow.js:86
+msgid "Feed Information"
+msgstr "Flödesinformation"
+
+#: feedreader/view/AddFeedWindow.js:93
+msgid "Title:"
+msgstr "Titel"
+
+#: feedreader/view/AddFeedWindow.js:96
+msgid "URL:"
+msgstr "URL:"
+
+#: feedreader/view/AddFeedWindow.js:108
+msgid "Add"
+msgstr "Lägg till"
+
+#: feedreader/view/AddFeedWindow.js:130
+msgid "Please enter a title."
+msgstr "Fyll i en titel"
+
+#: feedreader/view/AddFeedWindow.js:138
+msgid "Please enter a url."
+msgstr "Fyll i en url."
+
+#: feedreader/view/List.js:50
+msgid "Posts"
+msgstr "Poster"
+
+#: feedreader/view/PreferenceWindow.js:48 feedreader/view/ToolBar.js:86
+msgid "Preferences"
+msgstr "Inställningar"
+
+#: feedreader/view/PreferenceWindow.js:85
+msgid "Language"
+msgstr "Språk"
+
+#: feedreader/view/PreferenceWindow.js:123
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: feedreader/view/PreferenceWindow.js:126
+msgid "OK"
+msgstr "OK"
+
+#: feedreader/view/ToolBar.js:60
+msgid "Add feed"
+msgstr "Lägg till flöde"
+
+#: feedreader/view/ToolBar.js:64
+msgid "Remove feed"
+msgstr "Ta bort flöde"
+
+#: feedreader/view/ToolBar.js:74
+msgid "Reload"
+msgstr "Uppdatera"
+
+#: feedreader/view/ToolBar.js:77
+msgid "Reload the feeds. (%1)"
+msgstr "Ladda om flödena. (%1)"
+
+#: feedreader/view/ToolBar.js:88
+msgid "Open preferences window."
+msgstr "Öppna inställningsfönstret"
+
+#: feedreader/view/ToolBar.js:101
+msgid "Help"
+msgstr "Hjälp"
+
+#: feedreader/view/Tree.js:65
+msgid "Static Feeds"
+msgstr "Statiska flöden"
+
+#: feedreader/view/Tree.js:69
+msgid "User Feeds"
+msgstr "Användarflöden"
